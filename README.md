@@ -94,6 +94,12 @@ The lab consists of three nodes:
 
 - **Victim**  
   - Logs authentication attempts and system events, providing host-level forensic data.
+  - 
+<p align="center">
+<a href="Home_Lab\Screenshots\Lab_Setup.png">
+<img src="Home_Lab\Screenshots\Lab_Setup.png" width="700">
+</a>
+</p>
 
 ---
 
